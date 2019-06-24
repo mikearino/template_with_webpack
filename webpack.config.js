@@ -22,8 +22,6 @@ module.exports = {
       inject: 'body'
     })
   ],
-  module.exports = {
-    ...
     module: {
       rules: [
         {
